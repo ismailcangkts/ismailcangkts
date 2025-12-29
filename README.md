@@ -1,29 +1,25 @@
 <div align="center">
 
-<!-- Başlık ve Animasyon -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Merhaba%2C+Ben+İsmail+can!+%F0%9F%91%8B;Full+Stack+Developer+%7C+Problem+Solver;Teknoloji+ile+Gelece%C4%9Fi+%C4%B0n%C5%9Fa+Eden" alt="Typing SVG" />
-</h1>
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Merhaba%2C+Ben+%C4%B0smail+Can!+%F0%9F%91%8B;Full+Stack+Developer+%7C+Problem+Solver;Teknoloji+ile+Gelece%C4%9Fi+%C4%B0n%C5%9Fa+Eden)
 
-<!-- Ziyaretçi Sayacı -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ismailcan&label=Profil+Görüntülenme&color=0e75b6&style=flat" alt="Ziyaretçi Sayacı" />
+  <img src="https://komarev.com/ghpvc/?username=ismailcangkts&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme&color=0e75b6&style=flat" />
 </p>
 
-<!-- Sosyal Medya Bağlantıları -->
 <p>
-  <a href="https://www.linkedin.com/in/ismail-can-/" target="https://www.linkedin.com/in/ismail-can-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ismail-can-g%C3%B6kta%C5%9F-2b5296249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bağlanalım-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ismailcnagkts@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Mesaj_Gönderin-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/ismailcan" target="https://github.com/ismailcan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/ismailcangkts">
+    <img src="https://img.shields.io/badge/GitHub-Takip_Et-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 </div>
+
 
 ---
 
@@ -31,7 +27,7 @@
 python
 class IsmailCan:
     def __init__(self):
-        self.name = "İsmail can"
+        self.name = "İsmail Can Göktaş"
         self.role = "Full Stack Developer"
         self.language_spoken = ["tr_TR", "en_US"]
         self.current_focus = ["Web Development", "System Design", "Clean Code"]
@@ -42,6 +38,7 @@ class IsmailCan:
 
 me = IsmailCan()
 me.say_hi()
+
 
 
 🔭 Şu anda *modern web uygulamaları* ve *ölçeklenebilir backend sistemleri* üzerinde çalışıyorum  
