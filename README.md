@@ -183,7 +183,7 @@ const skills = {
 
 ---
 
-## 🎯 2025 Hedeflerim
+## 🎯 2026 Hedeflerim
 
 - ✅ *10+* açık kaynak projeye katkı sunmak
 - 🚀 Kendi *SaaS ürünümü* geliştirmek
